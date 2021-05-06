@@ -3,7 +3,7 @@
 // information of Processor and RAM.
 public class cpu{
     int price;
-    static class processor{
+     class processor{
         int cores;
         String producer;
         processor(int noC, String manu){
@@ -16,7 +16,7 @@ public class cpu{
         System.out.println("Manufacturer = "+producer+"\n");
     }
     }
-    class ram{
+    static class ram{
         int mem;
         String manuf;
         ram(int memory,String producer ){
@@ -25,13 +25,13 @@ public class cpu{
         }
         void display(){
         System.out.println("\nRAM info");
-        System.out.println("Memory = "+mem);
+        System.out.println("Memory = "+mem+" GB");
         System.out.println("Manufacturer = "+manuf+"\n");
     }}
     public static void main(String[] args) {
-         cpu.processor obj1= new cpu.processor(8,"Intel");
+         cpu.ram obj1= new cpu.ram(8,"Intel");
          cpu obj2 = new cpu();
-         cpu.ram obj3 = obj2.new ram(8,"Samsung");
+         cpu.processor obj3 = obj2.new processor(8,"Samsung");
          obj1.display();
          obj3.display();
 
