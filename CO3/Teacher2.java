@@ -1,5 +1,6 @@
 // Create a class ‘Person’ with data members Name, Gender, Address, Age and a constructor 
 // to initialize the data members  
+
 import java.util.Scanner;
  class person {
     String Name;
