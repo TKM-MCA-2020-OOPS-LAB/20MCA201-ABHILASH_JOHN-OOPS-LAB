@@ -1,4 +1,4 @@
-Course Outcome 2 (CO2) 
+# Course Outcome 2 (CO2) 
 1. Program to Sort strings 
 2. Search an element in an array. 
 3. Perform string manipulations 
