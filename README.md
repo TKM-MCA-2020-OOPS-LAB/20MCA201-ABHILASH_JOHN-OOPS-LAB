@@ -1,5 +1,5 @@
 # 20MCA201-ABHILASH_JOHN-OOPS-LAB
-Course Outcome 1 (CO1): 
+## Course Outcome 1 (CO1): 
 
 1. Define a class ‘product’ with data members pcode, pname and price. Create 3 objects of 
 the class and find the product having the lowest price. 
@@ -10,7 +10,7 @@ the class and find the product having the lowest price.
 and static nested class RAM (memory, manufacturer). Create an object of CPU and print 
 information of Processor and RAM. 
 
-Course Outcome 2 (CO2):
+## Course Outcome 2 (CO2):
 
 1. Program to Sort strings 
 2. Search an element in an array. 
@@ -19,7 +19,7 @@ Course Outcome 2 (CO2):
 employ information and Search for an employee given eNo, using the concept of Array of 
 Objects. 
 
-Course Outcome 3(CO3): 
+## Course Outcome 3(CO3): 
 
 1. Area of different shapes using overloaded functions 
 2. Create a class ‘Employee’ with data members Empid, Name, Salary, Address and 
@@ -49,7 +49,7 @@ Product Id Name Quantity unit price Total
  102 B 1 100 100 
  Net. Amount 150
 
-Course Outcome 4 (CO4): 
+## Course Outcome 4 (CO4): 
 
 1. Create a Graphics package that has classes and interfaces for figures Rectangle, Triangle, 
 Square and Circle. Test the package by finding the area of these figures. 
@@ -77,7 +77,7 @@ operations.
 elements.
 18. Program to Convert HashMap to TreeMap
 
-Course Outcome 5 (CO5): 
+## Course Outcome 5 (CO5): 
 
 1. Program to draw Circle, Rectangle, Line in Applet. 
 2. Program to find maximum of three numbers using AWT. 
@@ -92,7 +92,7 @@ parameters as per user’s choice.
 7. Develop a program to handle all mouse events and window events 
 8. Develop a program to handle Key events. 
 
-Course Outcome 6 (CO6): 
+## Course Outcome 6 (CO6): 
 
 1. Program to list the sub directories and files in a given directory and also search for a file 
 name. 
