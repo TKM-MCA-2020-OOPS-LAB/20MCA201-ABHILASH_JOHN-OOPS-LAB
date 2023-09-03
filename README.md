@@ -1,4 +1,5 @@
 # 20MCA201-ABHILASH_JOHN-OOPS-LAB
+### respository maintained for oops lab 
 ## Course Outcome 1 (CO1): 
 
 1. Define a class ‘product’ with data members pcode, pname and price. Create 3 objects of 
